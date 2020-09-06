@@ -1,0 +1,18 @@
+body {
+    background-color: olivedrab
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px
+}
+
+.t {
+    padding: 16px;
+    text-align: center;
+    background-color: seagreen;
+    color: black;
+    font-size: 2rem
+}

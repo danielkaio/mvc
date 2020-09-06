@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "app/js",
+        "target": "ES6",
+        "removeComments": true,
+        
+
+    },
+
+   
+    "include": [
+        "app/ts/**/*", "app/app.ts"
+    ],
+   
+
+    
+}
